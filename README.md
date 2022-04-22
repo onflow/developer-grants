@@ -27,7 +27,7 @@ We want to accelerate creation of educational material produced in the Flow ecos
 We distribute FLOW tokens to help development on grant projects in a suistainable way. The amount and distribution timeline is determined on a project basis, by consideration of the project milestones.
 
 ## How to apply?
-TBA - stay tuned.
+Create a new issue using the ["Grant Application"](https://github.com/onflow/developer-grants/issues/new?assignees=alxflw&labels=in+review&template=grant-application.md&title=) issue template. Make sure to fill out all details!
 
 ### How are applications evaluated?
 
