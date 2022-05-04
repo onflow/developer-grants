@@ -12,34 +12,34 @@ We want to ensure that contributors can sustain their passion. Our goal is to in
 
 ### Developer Services
 
-We want to support projects that fill ecosystem gaps by building services. These are usually not easily monetizable, require significant resourcingm, and have an outsized impact on other builders.
+We want to support projects that fill ecosystem gaps by building services. These are usually not easily monetizable, require significant resourcing, and have an outsized impact on other builders.
 
 ### Product bounties
 
 We want to get more contributors to extend, improve, and grow usage of existing Flow tools. These projects can include implementation of defined features, bug hunting, or other tasks to support growth and adoption of Flow tools.
 
-### Education material
+### Educational material
 
-We want to accelerate creation of educational material produced in the Flow ecosystem. Some of these projects might require research (eg surveying), collaboration with builders and more.
+We want to accelerate creation of educational material produced in the Flow ecosystem. Some of these projects might require research (e.g. surveying), collaboration with builders and more.
 
 ## How do we support you?
 
-We distribute FLOW tokens to help development on grant projects in a suistainable way. The amount and distribution timeline is determined on a project basis, by consideration of the project milestones.
+We distribute FLOW tokens to help development on grant projects in a sustainable way. The amount and distribution timeline is determined on a project basis, by consideration of the project milestones.
 
 ## How to apply?
-Create a new issue using the ["Grant Application"](https://github.com/onflow/developer-grants/issues/new?assignees=alxflw&labels=in+review&template=grant-application.md&title=) issue template. Make sure to fill out all details!
+Create a new issue using the ["Grant Application"](https://github.com/onflow/developer-grants/issues/new?assignees=alxflw&labels=in+review&template=grant-application.md&title=) issue template. Make sure to fill out all the details!
 
 ### How are applications evaluated?
 
 We are using the [DVF framework](https://tryble.atlassian.net/wiki/spaces/prioritizr/pages/254738466/Design+Thinking+Desirability+Viability+and+Feasibility+DVF) to determine how relevant a project is. Specifically, we are looking for:
 
-- A clear problem statement: What is the evidence showing this it is worth tackling?
+- A clear problem statement: What is the evidence showing that it is worth tackling?
 - Technical feasibility and track records of contributors: How likely would this be completed as planned?
-- Impact to the ecosystem: In what ways does this enrich or accelerate other proejcts?
+- Impact to the ecosystem: In what ways does this enrich or accelerate other projects?
 
 ### Who is evaluating them?
 
-Ultimately, we will establish a grants committee that represents DapperLabs employees, Flow Foundation employees, and key community contirbutors. In the early phase of the grants program, three DapperLabs employees from the Developer Experience team are evaluating all submissions.
+Ultimately, we will establish a grants committee that represents DapperLabs employees, Flow Foundation employees, and key community contributors. In the early phase of the grants program, three DapperLabs employees from the Developer Experience team are evaluating all submissions.
 
 ### What happens after the application submission?
 
