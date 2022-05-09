@@ -1,15 +1,15 @@
 ---
 name: Grant Application
 about: Issue for a grant application submission
-title: ''
+title: ""
 labels: in review
 assignees: alxflw
-
 ---
 
 # <Project name>
 
 # Grant category
+
 - [ ] OpenSource maintenance
 - [ ] Developer service
 - [ ] Product bounty
@@ -25,19 +25,17 @@ assignees: alxflw
 ## Proposed solution
 
 ## Impact
+
 - In what ways does this benefit the broader Flow developer ecosystem?
 
 # Milestones and funding
 
-## Milestone #1: <Outcome>
-
-- Deliverables
-- Risks
-- Timeline
-- FLOW reward
+| Milestone | Deliverables   | Timeline | Risks                   | FLOW requested |
+| --------- | -------------- | -------- | ----------------------- | -------------- |
+| 1 - MVP   | Smart Contract | 2 weeks  | Need a Cadence engineer | 5000           |
 
 # Team
 
-## <Name>, <role>
-- bio / track record
-- socials (including discord)
+| Name | Role                | Bio | Contact         |
+| ---- | ------------------- | --- | --------------- |
+| Alex | Full-Stack Engineer | ... | alex@onflow.org |
