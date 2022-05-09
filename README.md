@@ -46,11 +46,7 @@ We are using the [DVF framework](https://tryble.atlassian.net/wiki/spaces/priori
 
 ### Who is evaluating them?
 
-Grant proposals are reviewed and approved by the Developer Grant Committee (DGC). As of May 9, 2022, the DGC members are:
-
-- Alexander Graebe (alx-flw.find#6198)
-- Srinjoy Chakraborty (srinjoyc#4183)
-- Morten Bagai (mortenbagai#9513)
+Grant proposals are reviewed and approved by the Developer Grant Committee (DGC).
 
 ### What happens after the application submission?
 
