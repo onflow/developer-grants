@@ -4,13 +4,17 @@ The Developer Experience team at Flow oversees the grants program for developers
 
 ## How we support you
 
-We price and issue grants in FLOW tokens. The specific amount and terms are dependent on the project type, scope, and milestones.
+We price and issue grants in FLOW tokens and provide feedback on milestones. The specific amount and terms are dependent on the project type, scope, and milestones.
+
+> Note: We do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources.
 
 ## What projects are supported?
 
 We actively look for individuals and teams that build and maintain tools/services and produce technical content primarily targeting other builders in the ecosystem. We expect grants to result in opensource contributions to existing or new repositories in the Flow ecosystem.
 
 Below is a list of categories we aim to focus on.
+
+> Are you looking for project ideas - or want to submit one for someone else to take on? Check out the [Requests for Proposals (RFPs)](https://github.com/onflow/developer-grants/issues?q=is%3Aissue+is%3Aopen+label%3Awishlist).
 
 ### OpenSource maintenance
 
@@ -46,7 +50,7 @@ We are using the [DVF framework](https://tryble.atlassian.net/wiki/spaces/priori
 
 ### Who is evaluating them?
 
-Grant proposals are reviewed and approved by the Developer Grant Committee (DGC).
+Grant proposals are reviewed and approved by the Developer Grant Committee (DGC). The committee consists of individuals who know the funding priorities of the Flow ecosystem.
 
 ### What happens after the application submission?
 
