@@ -32,10 +32,6 @@ We want to get more contributors to extend, improve, and grow usage of existing 
 
 We want to accelerate creation of technical education material to support Flows developers. Some of these projects might require research (e.g. surveying), collaboration with builders and more.
 
-## How do we support you?
-
-We distribute FLOW tokens to help development on grant projects in a sustainable way. The amount and distribution timeline is determined on a project basis, by consideration of the project milestones.
-
 ## How to apply?
 
 Create a new issue using the ["Grant Application"](https://github.com/onflow/developer-grants/issues/new?assignees=alxflw&labels=in+review&template=grant-application.md&title=) issue template. Make sure to fill out all the details!
