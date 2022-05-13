@@ -1,14 +1,17 @@
 ---
 name: Grant Application
 about: Issue for a grant application submission
-title: ""
+title: ''
 labels: in review
 assignees: alxflw
+
 ---
 
 # <Project name>
 
 # Grant category
+
+Please select one or more of:
 
 - [ ] OpenSource maintenance
 - [ ] Developer service
@@ -30,9 +33,11 @@ assignees: alxflw
 
 # Milestones and funding
 
-| Milestone | Deliverables   | Timeline | Risks                   | FLOW requested |
+> Note: You can leave the USD proposal empty / "TBD"
+
+| Milestone | Deliverables   | Timeline | Risks                   | USD proposal |
 | --------- | -------------- | -------- | ----------------------- | -------------- |
-| 1 - MVP   | Smart Contract | 2 weeks  | Need a Cadence engineer | 5000           |
+| 1 - MVP   | Smart Contract | 2 weeks  | Need a Cadence engineer | 1000           |
 
 # Team
 
