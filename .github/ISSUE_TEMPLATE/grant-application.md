@@ -33,11 +33,13 @@ Please select one or more of:
 
 # Milestones and funding
 
-> Note: You can leave the USD proposal empty / "TBD"
+> Note: You can leave the USD proposal empty / "TBD". Please consider adoption and/or maintenance milestones at the end of your project.
 
 | Milestone | Deliverables   | Timeline | Risks                   | USD proposal |
 | --------- | -------------- | -------- | ----------------------- | -------------- |
-| 1 - MVP   | Smart Contract | 2 weeks  | Need a Cadence engineer | 1000           |
+| 1 - MVP   | Smart Contract | 2 weeks  | - | 1000           |
+| X - Adoption   | 5 team using this project | 4 weeks  | - | 1000           |
+| X - Maintenance   | Resolving issuing and fixing bugs | 3 months  | - | 1000           |
 
 # Team
 
