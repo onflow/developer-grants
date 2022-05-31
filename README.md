@@ -20,13 +20,9 @@ Below is a list of categories we aim to focus on.
 
 We want to ensure that contributors can sustain their passion and commitment. Our goal is to increase recurring contributors to Flow-related repositories. For example, discussing implementation details and sending PRs to the [FCL repository](https://github.com/onflow/fcl-js).
 
-### Developer services
+### Developer tools and services
 
-We want to support projects that fill ecosystem gaps by building services. These are usually not easily monetizable, require significant resourcing, and have an outsized impact on other builders.
-
-### Product bounties
-
-We want to get more contributors to extend, improve, and grow usage of existing Flow tools. These projects can include implementation of defined features, bug hunting, or other tasks to support growth and adoption of Flow tools.
+We want to support projects that fill ecosystem gaps by building tools and/or services. These are usually not easily monetizable, require significant resourcing, and have an outsized impact on other builders. These projects can include implementation of new and existing features, or tasks to support growth and adoption of Flow tools.
 
 ### Technical education
 
