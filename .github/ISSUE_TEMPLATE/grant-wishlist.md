@@ -15,7 +15,6 @@ Please select one or more of:
 
 - [ ] OpenSource maintenance
 - [ ] Developer service
-- [ ] Product bounty
 - [ ] Educational material
 
 # Description
