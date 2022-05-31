@@ -14,7 +14,7 @@ assignees: alxflw
 Please select one or more of:
 
 - [ ] OpenSource maintenance
-- [ ] Developer service
+- [ ] Developer tools / services
 - [ ] Educational material
 
 # Description
