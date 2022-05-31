@@ -13,7 +13,7 @@ assignees: alxflw
 
 Please select one or more of:
 
-- [ ] OpenSource maintenance
+- [ ] Open source maintenance
 - [ ] Developer tools / services
 - [ ] Educational material
 
