@@ -11,11 +11,11 @@ assignees: alxflw
 
 # Grant category
 
-Please select one or more of:
+Please select one:
 
-- [ ] Open source maintenance
-- [ ] Developer tools / services
-- [ ] Educational material
+- Open source maintenance
+- Developer tools / services
+- Educational material
 
 # Description
 
