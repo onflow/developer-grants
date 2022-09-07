@@ -32,7 +32,7 @@ Please select one:
 
 # Milestones and funding
 
-> Note: You can leave the USD proposal empty / "TBD". Please consider adoption and/or maintenance milestones at the end of your project.
+> Note: Please consider adoption and/or maintenance milestones at the end of your project.
 
 | Milestone | Deliverables   | Timeline | Risks                   | USD proposal |
 | --------- | -------------- | -------- | ----------------------- | -------------- |
@@ -40,6 +40,8 @@ Please select one:
 | X - Adoption   | 5 team using this project | 4 weeks  | - | 1000           |
 | X - Maintenance   | Resolving issuing and fixing bugs | 3 months  | - | 1000           |
 
+Total funding proposed: <total USD amount>
+  
 # Team
 
 | Name | Role                | Bio | Contact         |
