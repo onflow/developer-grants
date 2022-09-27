@@ -3,7 +3,7 @@ name: Grant Application
 about: Issue for a grant application submission
 title: ''
 labels: in review
-assignees: alxflw
+assignees: chrisackermann
 
 ---
 
