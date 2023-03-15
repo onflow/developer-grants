@@ -1,3 +1,7 @@
+> 🚧 **We are revamping the developer grants program and catching up on the backlog of applications due for review. New applications will be accepted again once the program has revamped. Thanks for your understanding!**
+
+---
+
 # Flow Developer Grants
 
 The Developer Experience team at Flow oversees the grants program for developers. Grant projects should help accelerate and enhance the process of building and consuming apps on Flow.
