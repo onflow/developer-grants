@@ -1,9 +1,9 @@
 ---
-name: DO NOT USE - Grant Application
-about: Issue for a grant application submission. Do not use - we're revamping the program
+name: Grant Application
+about: Issue for a grant application submission.
 title: ''
 labels: in review
-assignees: chrisackermann
+assignees: KshitijChaudhary666
 
 ---
 
