@@ -12,10 +12,6 @@ We price and issue grants in FLOW tokens and provide feedback on milestones. The
 
 We actively look for individuals and teams that build and maintain tools/services and produce technical content primarily targeting other builders in the ecosystem. We expect grants to result in open source contributions to existing or new repositories in the Flow ecosystem.
 
-Below is a list of categories we aim to focus on.
-
-> Are you looking for project ideas - or want to submit one for someone else to take on? Check out the [Requests for Proposals (RFPs)](https://github.com/onflow/developer-grants/issues?q=is%3Aissue+is%3Aopen+label%3Awishlist).
-
 ### Open source maintenance
 
 We want to ensure that contributors can sustain their passion and commitment. Our goal is to increase recurring contributors to Flow-related repositories. For example, discussing implementation details and sending PRs to the [FCL repository](https://github.com/onflow/fcl-js).
