@@ -32,4 +32,4 @@ On-chain recovery mechanisms promote safer self-custody options for account mana
 
 # Grant Application
 
-To apply for a developer grant to be compensated for addressing this project, follow the existing grant applicatin process and reference this fea
+To apply for a developer grant to be compensated for addressing this project, follow the existing grant applicatin process and reference this project in your application. 
