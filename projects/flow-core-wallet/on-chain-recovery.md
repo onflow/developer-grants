@@ -1,4 +1,4 @@
-# Flow Core Wallet - On Chain Recovery
+# Flow Reference Wallet - On Chain Recovery
 
 # Description
 
