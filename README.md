@@ -56,3 +56,7 @@ The DGC reviews all applications on an ongoing basis. Upon review, we will conta
 | Fiat-NFT payment plugin for wallets | Fiat-NFT payment solution that plugs into wallets on FLOW would make it faster and cheaper for users to purchase NFTs; additionally, direct card-to-NFT would boost sales for creators by 300% for (Moonpay survey). | Qutrics Carbon Inc. |
 | Cadence Testing Framework - issues cleanup and improvements | This enhancement ensures that developers can work with the Cadence Testing Framework more efficiently and with greater confidence, ultimately accelerating the development process and improving the overall experience for Flow ecosystem developers. | Ardit Marku |
 | Flowser Interact Screen and UI updates to drive developer productivity | Developers on Flow often need to switch between multiple programs (IDE, Flow CLI, Flowser), which can impact productivity. A brand-new screen for performing blockchain interactions - like executing transactions or scripts - would replace some Flow CLI commands with an easier-to-use and more powerful GUI, improving developer productivity. | Monika Hriberšek |
+
+### Need Help or Have Questions?
+
+Whether you're a current grantee or a prospective one, we're here to assist you every step of the way. If you have any issues, questions, or need guidance, please don't hesitate to reach out to Flow Grants Review Committee at GrantsReviewCommittee@flowfoundation.com.
