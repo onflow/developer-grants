@@ -1,4 +1,4 @@
-## This repo has been _ARCHIVED_, Please checkout lastest Flow Grants Programs at <https://developers.flow.com/ecosystem/grants>.
+## This repo has been _ARCHIVED_, Please checkout the lastest Flow Grants Programs at <https://developers.flow.com/ecosystem/grants>.
 
 ----
 
