@@ -1,3 +1,7 @@
+## This repo has been _ARCHIVED_, Please checkout the lastest Flow Grants Programs at <https://developers.flow.com/ecosystem/grants>.
+
+----
+
 # Flow Developer Grants
 
 The Developer Experience team at Flow oversees the grants program for developers. Grant projects should help accelerate and enhance the process of building and consuming apps on Flow.
